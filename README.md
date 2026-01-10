@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+Hi, I’m Gayle — a Cybersecurity and Information Assurance student focused on showcasing the hands-on skills I’ve developed through coursework, labs, and real-world projects.
+- 🔭 I’m currently working on hands-on cybersecurity labs, including Active Directory environments, SIEM deployment with Splunk, and network security monitoring
+- 🌱 I’m currently learning Python for automation, Azure fundamentals (AZ-900), and advanced security operations concepts.
+- ⚡ Fun fact: Former classroom teacher with 5 years of experience — strong communicator who enjoys breaking down complex technical topics.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gayle-mendez-b32876b0/)
+  
 <!--
 **g3mndzy/g3mndzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
