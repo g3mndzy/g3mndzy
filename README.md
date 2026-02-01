@@ -8,8 +8,8 @@ My name is Gayle — a Cybersecurity and Information Assurance student focused o
 | Project Name | Description | Link |
 |-------------|------------|------|
 | Active Directory Lab | Built a multi-server Active Directory environment with centralized logging using Splunk, simulating an enterprise network | <a href="https://github.com/g3mndzy/Active-Directory-2.0-project" target="_blank">View Project</a> |
-| Python Scripting Labs | Hands-on Python labs focused on automation, problem-solving, and scripting fundamentals for IT and cybersecurity | <a href="https://github.com/g3mndzy/python-scripting-labs" target="_blank">View Project</a> |
 | Nmap & Wireshark Labs | Network scanning and traffic analysis labs using Nmap and Wireshark to identify services and analyze packets | <a href="https://github.com/g3mndzy/Nmap-and-Wireshark" target="_blank">View Project</a> |
+|SOC Automation Lab | SIEM alert detection, endpoint telemetry ingestion, attack simulation, and automated alert workflows | <a href="https://github.com/g3mndzy/SOC-Automation-Lab" target="_blank">View Project</a> |
 
 ## 🏅 Certifications
 
