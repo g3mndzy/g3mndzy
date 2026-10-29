@@ -11,7 +11,7 @@ My name is Gayle — a Cloud & Network Enngineering student focused on showcasin
 
 | Project Name | Description | Link |
 |-------------|------------|------|
-| AI for IT Automation Lab | explored how AI-assisted network management and security automation could support enterprise/clinic evironments |<a href="https://github.com/g3mndzy/AI-for-IT-Automation-and-Security" target="_blank">View Project</a> |
+| AI for IT Automation Lab | Explored how AI-assisted network management and security automation could support enterprise/clinic evironments |<a href="https://github.com/g3mndzy/AI-for-IT-Automation-and-Security" target="_blank">View Project</a> |
 | Vulnerability Assessment | Performed Vulnerabilty Assessement for Saas Company and presented findings | <a href="https://github.com/g3mndzy/staffedup-saas-risk-assesment" target="_blank">View Project</a> |
 | Active Directory Lab | Built a multi-server Active Directory environment with centralized logging using Splunk, simulating an enterprise network | <a href="https://github.com/g3mndzy/Active-Directory-2.0-project-" target="_blank">View Project</a> 
 | Python File Integrity Monitoring Lab | File Integrity Monitoring system using Python to detect unauthorized changes to files and directories | <a href="https://github.com/g3mndzy/Python-File-Integrity-Monitoring-Lab" target="_blank">View Project</a> |
