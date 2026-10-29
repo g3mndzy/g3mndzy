@@ -1,10 +1,12 @@
 ## Hi there 👋
 My name is Gayle — a Cloud & Network Enngineering student focused on showcasing the hands-on skills I’ve developed through coursework, labs, and real-world projects.
-- 🔭 I’m currently finishing up an internship with Riipen, where I conduct vulnerability assessments, evaluate security controls, and help identify gaps in security policies and practices for SaaS environments.
-- 🛠️ I’m also building hands-on projects, including Active Directory environments, SIEM deployment (Splunk & Wazuh), and security monitoring labs.
-- 🌱 I’m currently learning Python for automation, Azure fundamentals (AZ-900), digital forensics, and advanced security operations concepts.
-- 🧠 I document my work through detailed lab write-ups, GitHub repositories, and technical articles to demonstrate practical skills and continuous growth.
-- ⚡ Fun fact: Current classroom teacher with 5 years of experience — strong communicator who enjoys breaking down complex technical topics.
+- 🌐 I design network topologies and explore routing, switching, VLAN segmentation, and network security through hands-on projects.
+- 🔐 I completed a Riipen cybersecurity internship, evaluating a SaaS environment’s security controls, identifying risks, and presenting remediation recommendations.
+- 🛠️ My projects include network design in GNS3, Python network automation, Active Directory, and security monitoring with Splunk and Wazuh.
+- 🌱 I’m currently studying for Microsoft Azure Administrator (AZ-104) after earning my Azure Fundamentals (AZ-900) certification.
+- 🧠 I document my work through lab write-ups and GitHub repositories to share my approach, troubleshooting process, and lessons learned.
+- 🍎 I’m also a third-grade teacher and Grade Team Leader with seven years of teaching experience, bringing communication, leadership, and problem-solving skills to my transition into technology.
+- 🎯 My goal is to build a career in network and cloud engineering.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gayle-mendez-b32876b0/)
 
 | Project Name | Description | Link |
@@ -24,6 +26,7 @@ My name is Gayle — a Cloud & Network Enngineering student focused on showcasin
    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
    <img src="https://img.shields.io/badge/ITIL%204%20Foundation-6A1B9A?style=for-the-badge&logo=ITIL&logoColor=white" />
    <img src="https://img.shields.io/badge/Linux%20Essentials-000000?style=for-the-badge&logo=Linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge" alt=" (AZ-900)" />
 </p>
 
 
